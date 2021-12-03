@@ -1,0 +1,37 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    background:blueviolet;
+}
+
+.header_div{
+    color: hotpink;
+    letter-spacing: 3px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.header_div p{
+    font-family: 'Indie Flower', cursive;
+    color: greenyellow;
+    letter-spacing: 2px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Permanent Marker', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-size: 23;
+}
+.copy_write_footer{
+    position: fixed;
+    color: yellow;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 22px;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(0, 253, 253);
+}
